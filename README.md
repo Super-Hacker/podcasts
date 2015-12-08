@@ -1,0 +1,17 @@
+# Podcasts
+  
+  + [OWASP Podcast](https://www.owasp.org/index.php/OWASP_Podcast)
+  + [ASIS Security Management Podcast](http://www.securitymanagement.com/audio)
+  + [Eurotrash Security Podcast](http://www.eurotrashsecurity.eu/index.php/Main_Page)
+  + [Exotic Liability](http://exoticliability.libsyn.com/)
+  + [Network Seucrity Podcasts](http://netsecpodcast.com/)
+  + [2600: Off The Hook](http://www.hackerfactor.com/blog/index.php?/archives/376-Security-Podcasts.html)
+  + [CyberSpeak's Podcast](http://cyberspeak.libsyn.com/)
+  + [Crypto-Gram Security Podcast](http://crypto-gram.libsyn.com/)
+  + [Speaking of Security](http://www.emc.com/domains/rsa/index.htm)
+  + [PaulDotCom Security Weekly](http://securityweekly.com/podcasts)
+  + [Risky Business](http://risky.biz/netcasts/risky-business)
+  + [SecuraBit Podcast ](http://securabit.com/)
+  + [Social Media Security Podcast](http://socialmediasecurity.com/category/podcasts/)
+  + [Social-Engineering.org Podcast ](http://www.social-engineer.org/category/podcast/)
+  + [The Southern Fried Security Podcast](http://www.southernfriedsecurity.com/?cat=4)
